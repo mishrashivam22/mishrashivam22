@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishrashivam22
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently working on  Web dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
